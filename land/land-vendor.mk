@@ -1054,6 +1054,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/land/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/xiaomi/land/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
     vendor/xiaomi/land/proprietary/vendor/lib/liblistensoundmodel2.so:system/vendor/lib/liblistensoundmodel2.so \
+    vendor/xiaomi/land/proprietary/vendor/lib/libllvd_smore.so:system/vendor/lib/libllvd_smore.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libllvm-qgl.so:system/vendor/lib/libllvm-qgl.so \
@@ -1523,4 +1524,3 @@ PRODUCT_PACKAGES += \
     qdcm_calib_data_hx8394F_HD720p_video_BOE \
     qdcm_calib_data_ili9881c_HD720p_video_Tianma \
     qdcm_calib_data_nt35521s_HD720p_video_EBBG
-
